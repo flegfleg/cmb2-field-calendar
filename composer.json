@@ -1,0 +1,14 @@
+{
+    "name": "flegfleg/cmb2-field-calendar",
+    "description": "Calendar field type for CMB2.",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin"],
+    "license": "MIT",
+    "homepage": "https://wordpress.org/plugins/commons-booking",
+    "authors": [
+        {
+            "name": "Annesley Newholm",
+            "email": "annesley_newholm@yahoo.it"
+        }
+    ]
+}
